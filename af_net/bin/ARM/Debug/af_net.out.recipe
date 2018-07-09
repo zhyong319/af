@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <LocalLibPath>D:\git\af_net\af_net\bin\ARM\Debug\af_net.out</LocalLibPath>
+  <ObjPaths>D:\git\af_net\af_net\obj\ARM\Debug\</ObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>ARM</Platform>
+</Project>

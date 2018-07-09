@@ -1,0 +1,1 @@
+g++ -o "/vs/af_net/bin/x64/Debug/af.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /vs/af_net/obj/x64/Debug/mail.o /vs/af_net/obj/x64/Debug/main.o /vs/af_net/obj/x64/Debug/rconf.o /vs/af_net/obj/x64/Debug/socknet.o /vs/af_net/obj/x64/Debug/sql.o /vs/af_net/obj/x64/Debug/worksys.o -lmysqlclient

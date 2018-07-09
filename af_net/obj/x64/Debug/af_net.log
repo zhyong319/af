@@ -1,0 +1,14 @@
+﻿  Cleaning remote project directory
+  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.1.1.99'
+  Starting remote build
+  Compiling sources:
+  mail.cpp
+  main.cpp
+  rconf.cpp
+  socknet.cpp
+  sql.cpp
+  worksys.cpp
+  Linking objects
+  af_net.vcxproj -> D:\git\af_net\af_net\bin\x64\Debug\af.out
